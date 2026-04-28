@@ -1,6 +1,6 @@
 alfabeto = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
 clave = "URJC"
-textoCifrado = "udXPalb"
+textoCifrado = "mvltykycmjfqlu"
 textoCifrar = "Amongus"
 
 def cifrar():
